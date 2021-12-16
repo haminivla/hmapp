@@ -1,1 +1,1 @@
-# hmapp
+Hacker News App

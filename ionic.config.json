@@ -1,7 +1,0 @@
-{
-  "name": "hnapp",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
